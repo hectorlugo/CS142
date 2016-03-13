@@ -1,0 +1,6 @@
+Residential 0 1000000 1 
+Commercial 1 36363636 1 0.22 310 Bob Lane
+Residential 999999 3 401 South
+Commercial 0 7894561 0 490 North
+No Street Area
+

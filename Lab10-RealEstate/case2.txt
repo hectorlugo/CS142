@@ -1,0 +1,9 @@
+Residential 1 50000000 1 369 Roger Lane
+Commercial 1 55555000 0 0.25 100 Bob Lane
+Residential 1 999999 0 401 South
+Commercial 0 7894561 1 0.2 490 North
+Residential 1 4500000 1 800 West
+Commercial 560000 45 Carl West
+Me Have nothing
+Residential 1 600000 1 850 Bob Bullock Rd
+
